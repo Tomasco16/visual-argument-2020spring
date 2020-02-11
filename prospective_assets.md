@@ -1,3 +1,4 @@
 - Stars
 - Background stars/ black 
--Text 
+- Text 
+- My idea is a motivational picture about how success does not come from wishing on stars but hard work to reach your goals 
