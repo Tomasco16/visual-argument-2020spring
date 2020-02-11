@@ -1,0 +1,3 @@
+- Stars
+- Background stars/ black 
+-Text 
